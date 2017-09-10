@@ -1,0 +1,29 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Console.TableResult.ColumnsList" />
+  <action id="CopyElement" />
+  <action id="FileStructurePopup" />
+  <action id="Move" />
+  <action id="NextDiff" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="UML.ApplyCurrentLayout" />
+  <action id="UML.ShowStructure" />
+</keymap>

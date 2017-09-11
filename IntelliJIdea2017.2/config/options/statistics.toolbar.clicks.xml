@@ -1,8 +1,0 @@
-<application>
-  <component name="ToolbarClicksCollector">
-    <counts>
-      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="2" />
-      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="1" />
-    </counts>
-  </component>
-</application>
